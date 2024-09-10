@@ -1,7 +1,7 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Caleb Andreas
- * Created on: Sep 2024
+ * Created on: Sep 10 2024
  * This program shows "Hello, World!""
 */
 
